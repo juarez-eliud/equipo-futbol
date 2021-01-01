@@ -3,7 +3,16 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firbase: {
+    apiKey: 'AIzaSyBQ6k3p6Dk38KEhdHL_jArVIHyOkJFgfh4',
+    authDomain: 'equipo-futbol-8065c.firebaseapp.com',
+    databaseURL: 'https://equipo-futbol-8065c.firebaseio.com',
+    projectId: 'equipo-futbol-8065c',
+    storageBucket: 'equipo-futbol-8065c.appspot.com',
+    messagingSenderId: '188959065375',
+    appId: '1:188959065375:web:662d1f3c9ffca917be9c2a'
+  }
 };
 
 /*
